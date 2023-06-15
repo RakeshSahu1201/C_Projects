@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1563867796 source:d:\hsekar\c++ program\snake_game_in_c++\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1563867796 d:\hsekar\c++ program\snake_game_in_c++\conio2.h
+	<conio.h>
+	<windows.h>
+
+1610974980 source:d:\hsekar\c++ program\snake_game_in_c++\game.cpp
+	<iostream>
+	"conio.h"
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<string>
+	"Game.h"
+
+1610976915 d:\hsekar\c++ program\snake_game_in_c++\game.h
+
+1610960357 source:d:\hsekar\c++ program\snake_game_in_c++\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<string>
+	"Game.h"
+
+1563867796 source:e:\hsekar_codes\c++ program\snake_game_in_c++\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1563867796 e:\hsekar_codes\c++ program\snake_game_in_c++\conio2.h
+	<conio.h>
+	<windows.h>
+
+1610977039 source:e:\hsekar_codes\c++ program\snake_game_in_c++\game.cpp
+	<iostream>
+	"conio.h"
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<string>
+	"Game.h"
+
+1610976915 e:\hsekar_codes\c++ program\snake_game_in_c++\game.h
+
+1610960357 source:e:\hsekar_codes\c++ program\snake_game_in_c++\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<string>
+	"Game.h"
+
