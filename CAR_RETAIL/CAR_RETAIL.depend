@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1563867796 source:d:\c2020 project_batch\car_retail\car_retail\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1563867796 d:\c2020 project_batch\car_retail\car_retail\conio2.h
+	<conio.h>
+	<windows.h>
+
+1585227460 source:d:\c2020 project_batch\car_retail\car_retail\car.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"CAR.h"
+	"conio2.h"
+
+1585221554 d:\c2020 project_batch\car_retail\car_retail\car.h
+	<time.h>
+
+1628355118 source:d:\c2020 project_batch\car_retail\car_retail\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"CAR.h"
+	"conio2.h"
+
