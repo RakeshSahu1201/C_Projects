@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1563867796 source:d:\c2020 project_batch\railway_managment_system\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1563867796 d:\c2020 project_batch\railway_managment_system\conio2.h
+	<conio.h>
+	<windows.h>
+
+1611927684 source:d:\c2020 project_batch\railway_managment_system\main.c
+	<stdio.h>
+	"conio2.h"
+	<stdlib.h>
+	"Railway_Managment_System.h"
+
+1611927684 d:\c2020 project_batch\railway_managment_system\railway_managment_system.h
+	<string.h>
+
+1611927832 source:d:\c2020 project_batch\railway_managment_system\railway_managment_system.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"conio2.h"
+	"Railway_Managment_System.h"
+
